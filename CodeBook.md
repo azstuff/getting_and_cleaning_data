@@ -61,16 +61,16 @@ The dataset, tidy_data, generated from the script, run_analysis.R, is discribed 
 <tr><td>fBodyGyro_mean_X_avg      </td><td>    num </td><td> -0.85 -0.986 -0.97 -0.967 -0.976 ...</td></tr>
 <tr><td>fBodyGyro_mean_Y_avg    </td><td>      num</td><td>  -0.952 -0.983 -0.978 -0.972 -0.978 ...</td></tr>
 <tr><td>fBodyGyro_mean_Z_avg   </td><td>       num</td><td>  -0.909 -0.963 -0.962 -0.961 -0.963 ...</td></tr>
-<tr><td> $ fBodyGyro_std_X_avg         </td><td>  num </td><td> -0.882 -0.989 -0.976 -0.975 -0.981 ...</td></tr>
-<tr><td> $ fBodyGyro_std_Y_avg         </td><td>  num </td><td> -0.951 -0.982 -0.977 -0.956 -0.977 ...</td></tr>
-<tr><td> $ fBodyGyro_std_Z_avg         </td><td>  num </td><td> -0.917 -0.963 -0.967 -0.966 -0.963 ...</td></tr>
-<tr><td> $ fBodyAccMag_mean_avg         </td><td> num </td><td> -0.862 -0.975 -0.966 -0.939 -0.962 ...</td></tr>
-<tr><td> $ fBodyAccMag_std_avg         </td><td>  num </td><td> -0.798 -0.975 -0.968 -0.937 -0.963 ...</td></tr>
-<tr><td> $ fBodyBodyAccJerkMag_mean_avg </td><td> num </td><td> -0.933 -0.985 -0.976 -0.962 -0.977 ...</td></tr>
-<tr><td> $ fBodyBodyAccJerkMag_std_avg  </td><td> num </td><td> -0.922 -0.985 -0.975 -0.958 -0.976 ...</td></tr>
-<tr><td> $ fBodyBodyGyroMag_mean_avg    </td><td> num </td><td> -0.862 -0.972 -0.965 -0.962 -0.968 ...</td></tr>
-<tr><td> $ fBodyBodyGyroMag_std_avg     </td><td> num </td><td> -0.824 -0.961 -0.955 -0.947 -0.959 ...</td></tr>
-<tr><td> $ fBodyBodyGyroJerkMag_mean_avg</td><td> num</td><td>  -0.942 -0.99 -0.984 -0.984 -0.985 ...</td></tr>
-<tr><td> $ fBodyBodyGyroJerkMag_std_avg </td><td> num </td><td> -0.933 -0.989 -0.983 -0.983 -0.983 ...</td></tr>
+<tr><td> fBodyGyro_std_X_avg         </td><td>  num </td><td> -0.882 -0.989 -0.976 -0.975 -0.981 ...</td></tr>
+<tr><td> fBodyGyro_std_Y_avg         </td><td>  num </td><td> -0.951 -0.982 -0.977 -0.956 -0.977 ...</td></tr>
+<tr><td> fBodyGyro_std_Z_avg         </td><td>  num </td><td> -0.917 -0.963 -0.967 -0.966 -0.963 ...</td></tr>
+<tr><td> fBodyAccMag_mean_avg         </td><td> num </td><td> -0.862 -0.975 -0.966 -0.939 -0.962 ...</td></tr>
+<tr><td> fBodyAccMag_std_avg         </td><td>  num </td><td> -0.798 -0.975 -0.968 -0.937 -0.963 ...</td></tr>
+<tr><td> fBodyBodyAccJerkMag_mean_avg </td><td> num </td><td> -0.933 -0.985 -0.976 -0.962 -0.977 ...</td></tr>
+<tr><td> fBodyBodyAccJerkMag_std_avg  </td><td> num </td><td> -0.922 -0.985 -0.975 -0.958 -0.976 ...</td></tr>
+<tr><td> fBodyBodyGyroMag_mean_avg    </td><td> num </td><td> -0.862 -0.972 -0.965 -0.962 -0.968 ...</td></tr>
+<tr><td> fBodyBodyGyroMag_std_avg     </td><td> num </td><td> -0.824 -0.961 -0.955 -0.947 -0.959 ...</td></tr>
+<tr><td> fBodyBodyGyroJerkMag_mean_avg</td><td> num</td><td>  -0.942 -0.99 -0.984 -0.984 -0.985 ...</td></tr>
+<tr><td> fBodyBodyGyroJerkMag_std_avg </td><td> num </td><td> -0.933 -0.989 -0.983 -0.983 -0.983 ...</td></tr>
 
 </table>
