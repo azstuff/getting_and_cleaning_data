@@ -96,5 +96,8 @@ tidy_data <- all_data %>%
 colnames(tidy_data)[3:ncol(tidy_data)] <- paste0(colnames(tidy_data)[3:ncol(tidy_data)], "_avg")
 rm(all_data)
 
+#output data
+print(tidy_data)
+
 # Uncomment the following line to save the tidy data set to a file.
 # write.table(tidy_data, "smartphone_tidy_data.txt", row.names = FALSE)
